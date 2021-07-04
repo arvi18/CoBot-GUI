@@ -1,0 +1,4 @@
+venv_gui/
+chatbot_model.h5
+classes.pkl
+words.pkl
